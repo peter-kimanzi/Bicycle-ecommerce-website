@@ -1,6 +1,6 @@
-## Bicycle Ecommerce   Website
+# Bicycle Ecommerce   Website
 
-    Ecommerce Website Using HTML CSS & JavaScript | Bicycle Website
+##
 
 # Video
 
