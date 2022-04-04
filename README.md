@@ -8,7 +8,6 @@
 
 
 
-# Resource
 
     Google font: https://fonts.google.com/
 
