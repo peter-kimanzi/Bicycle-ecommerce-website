@@ -5,7 +5,8 @@
 * CSS
 * JAVASCRIPT
 
-
+### Live website can be viewed here
+https://peter-kimanzi.github.io/Bicycle-ecommerce-website/
 
 
 # Preview
