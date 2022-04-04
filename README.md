@@ -5,9 +5,7 @@
 * CSS
 * JAVASCRIPT
 
-# Video
 
-    https://youtu.be/uZI_1qGzHyM
 
 # Description
 
