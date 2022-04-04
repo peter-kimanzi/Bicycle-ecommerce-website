@@ -1,6 +1,7 @@
 # Bicycle Ecommerce   Website
 
 ## Techonolgies used
+* HTML
 
 # Video
 
