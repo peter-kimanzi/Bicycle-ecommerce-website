@@ -1,6 +1,6 @@
 # Bicycle Ecommerce   Website
 
-##
+## Techonolgies used
 
 # Video
 
