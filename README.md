@@ -2,6 +2,7 @@
 
 ## Techonolgies used
 * HTML
+* CSS
 
 # Video
 
