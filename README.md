@@ -7,9 +7,6 @@
 
 
 
-# Description
-
-    We will Make Ecommerce Website Using HTML CSS & JavaScript
 
 # Resource
 
