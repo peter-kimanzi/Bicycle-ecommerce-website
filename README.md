@@ -5,7 +5,7 @@
 * CSS
 * JAVASCRIPT
 
-All required files
+All required files are available 
 
 ### Live website can be viewed here
 https://peter-kimanzi.github.io/Bicycle-ecommerce-website/
